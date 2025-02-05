@@ -1,0 +1,14 @@
+C:\Users\vnagaraj\source\repos\DoConnect\DoConnect\bin\Debug\net8.0\DoConnect.exe
+C:\Users\vnagaraj\source\repos\DoConnect\DoConnect\bin\Debug\net8.0\DoConnect.deps.json
+C:\Users\vnagaraj\source\repos\DoConnect\DoConnect\bin\Debug\net8.0\DoConnect.runtimeconfig.json
+C:\Users\vnagaraj\source\repos\DoConnect\DoConnect\bin\Debug\net8.0\DoConnect.dll
+C:\Users\vnagaraj\source\repos\DoConnect\DoConnect\bin\Debug\net8.0\DoConnect.pdb
+C:\Users\vnagaraj\source\repos\DoConnect\DoConnect\obj\Debug\net8.0\DoConnect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vnagaraj\source\repos\DoConnect\DoConnect\obj\Debug\net8.0\DoConnect.AssemblyInfoInputs.cache
+C:\Users\vnagaraj\source\repos\DoConnect\DoConnect\obj\Debug\net8.0\DoConnect.AssemblyInfo.cs
+C:\Users\vnagaraj\source\repos\DoConnect\DoConnect\obj\Debug\net8.0\DoConnect.csproj.CoreCompileInputs.cache
+C:\Users\vnagaraj\source\repos\DoConnect\DoConnect\obj\Debug\net8.0\DoConnect.dll
+C:\Users\vnagaraj\source\repos\DoConnect\DoConnect\obj\Debug\net8.0\refint\DoConnect.dll
+C:\Users\vnagaraj\source\repos\DoConnect\DoConnect\obj\Debug\net8.0\DoConnect.pdb
+C:\Users\vnagaraj\source\repos\DoConnect\DoConnect\obj\Debug\net8.0\DoConnect.genruntimeconfig.cache
+C:\Users\vnagaraj\source\repos\DoConnect\DoConnect\obj\Debug\net8.0\ref\DoConnect.dll
